@@ -1,5 +1,11 @@
 # Chatbot UI
 
+## Fork
+
+removed hint:
+
+"ChatBot UI. Chatbot UI is an advanced chatbot kit for OpenAI's chat models aiming to mimic ChatGPT's interface and functionality."
+
 ## News
 
 Chatbot UI 2.0 is out as an updated, hosted product!
